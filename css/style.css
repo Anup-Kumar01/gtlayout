@@ -1,0 +1,31 @@
+/* title section start */
+.title{
+	padding: 60px 0px 30px;
+}
+.title h1{
+	margin: 0 auto;
+	text-align: center;
+	font-family: "Ubuntu", sans-serif;
+	font-size:42px;
+	font-weight: 500;
+}
+/* title section end */
+.header, .hero, .body, .bar, .footer{
+	margin-bottom: 10px;
+	padding: 10px 0px;
+	background-color: #0066ff;
+}
+.box{
+	margin: 10px 0;
+	min-height: 80px;
+	background-color: red;
+	text-align: center;
+	font-size: 30px;
+	color: #ffffff;
+}
+.green{
+	background-color: green;
+}
+.five{
+	background-color: #40E0D0;
+}
